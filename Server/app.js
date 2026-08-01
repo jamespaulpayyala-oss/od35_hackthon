@@ -18,9 +18,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 const BASE_URL =
-  process.env.BASE_URL ||
-  "https://batman-property-officer-repeated.trycloudflare.com";
-
+  "https://generator-orange-appointed-rate.trycloudflare.com";
 app.use(cors());
 app.use(express.json());
 
