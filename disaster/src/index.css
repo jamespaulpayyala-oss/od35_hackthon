@@ -1,1 +1,49 @@
 @import "tailwindcss";
+
+body{
+
+    margin:0;
+
+    background:#020617;
+
+    font-family:Inter,sans-serif;
+
+}
+
+::-webkit-scrollbar{
+
+    width:7px;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#334155;
+
+    border-radius:10px;
+
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 18px;
+  background: #0f172a;
+}
+
+.leaflet-pane,
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+  user-select: none;
+}
+
+.leaflet-control-zoom {
+  border: none !important;
+}
+
+.leaflet-control-zoom a {
+  background: #111827 !important;
+  color: white !important;
+  border: 1px solid #334155 !important;
+}

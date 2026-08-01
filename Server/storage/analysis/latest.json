@@ -1,0 +1,48 @@
+{
+    "vegetationDensity": {
+        "high": 50,
+        "medium": 30,
+        "low": 20
+    },
+    "forestCoverage": {
+        "dense": 40,
+        "moderate": 30,
+        "sparse": 10
+    },
+    "waterBodies": {
+        "lakes": 50,
+        "rivers": 30,
+        "ponds": 20
+    },
+    "waterExpansion": {
+        "expanding": 40,
+        "stable": 30,
+        "shrinking": 10
+    },
+    "bareSoil": {
+        "high": 50,
+        "medium": 30,
+        "low": 20
+    },
+    "urbanArea": {
+        "dense": 40,
+        "moderate": 30,
+        "sparse": 10
+    },
+    "agriculture": {
+        "high": 50,
+        "medium": 30,
+        "low": 20
+    },
+    "erosion": {
+        "high": 40,
+        "moderate": 30,
+        "low": 10
+    },
+    "landslideScar": {
+        "high": 50,
+        "moderate": 30,
+        "low": 10
+    },
+    "confidence": 90
+}
